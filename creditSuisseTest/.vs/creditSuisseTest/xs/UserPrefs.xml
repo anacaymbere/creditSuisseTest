@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{0DFCCEF7-1EF5-4D59-9495-81F49332114D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="creditSuisseTest/Program.cs">
+    <Files>
+      <File FileName="creditSuisseTest/Program.cs" Line="2" Column="3" />
+      <File FileName="creditSuisseTest.Data/Category.cs" Line="5" Column="6" />
+      <File FileName="creditSuisseTest.Data/Classes/TradeTransaction.cs" Line="16" Column="49" />
+      <File FileName="creditSuisseTest.Data/Classes/Trade.cs" Line="2" Column="40" />
+      <File FileName="creditSuisseTest.Data/Interface/ITradeTransaction.cs" Line="2" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="creditSuisseTest" expanded="True">
+            <Node name="creditSuisseTest" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="creditSuisseTest.Data" expanded="True">
+              <Node name="Classes" expanded="True" />
+              <Node name="Interface" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.creditSuisseTest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

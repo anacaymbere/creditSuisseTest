@@ -1,0 +1,10 @@
+/Users/anacarolinaaymbere/Desktop/projects/creditSuisseTest/creditSuisseTest/creditSuisseTest.Data/bin/Debug/netstandard2.1/creditSuisseTest.Data.deps.json
+/Users/anacarolinaaymbere/Desktop/projects/creditSuisseTest/creditSuisseTest/creditSuisseTest.Data/bin/Debug/netstandard2.1/creditSuisseTest.Data.dll
+/Users/anacarolinaaymbere/Desktop/projects/creditSuisseTest/creditSuisseTest/creditSuisseTest.Data/bin/Debug/netstandard2.1/creditSuisseTest.Data.pdb
+/Users/anacarolinaaymbere/Desktop/projects/creditSuisseTest/creditSuisseTest/creditSuisseTest.Data/obj/Debug/netstandard2.1/creditSuisseTest.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anacarolinaaymbere/Desktop/projects/creditSuisseTest/creditSuisseTest/creditSuisseTest.Data/obj/Debug/netstandard2.1/creditSuisseTest.Data.AssemblyInfoInputs.cache
+/Users/anacarolinaaymbere/Desktop/projects/creditSuisseTest/creditSuisseTest/creditSuisseTest.Data/obj/Debug/netstandard2.1/creditSuisseTest.Data.AssemblyInfo.cs
+/Users/anacarolinaaymbere/Desktop/projects/creditSuisseTest/creditSuisseTest/creditSuisseTest.Data/obj/Debug/netstandard2.1/creditSuisseTest.Data.csproj.CoreCompileInputs.cache
+/Users/anacarolinaaymbere/Desktop/projects/creditSuisseTest/creditSuisseTest/creditSuisseTest.Data/obj/Debug/netstandard2.1/creditSuisseTest.Data.dll
+/Users/anacarolinaaymbere/Desktop/projects/creditSuisseTest/creditSuisseTest/creditSuisseTest.Data/obj/Debug/netstandard2.1/creditSuisseTest.Data.pdb
+/Users/anacarolinaaymbere/Desktop/projects/creditSuisseTest/creditSuisseTest/creditSuisseTest.Data/obj/Debug/netstandard2.1/creditSuisseTest.Data.csproj.AssemblyReference.cache
