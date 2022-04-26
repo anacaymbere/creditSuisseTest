@@ -8,6 +8,9 @@ namespace creditSuisseTest
     {
         static void Main(string[] args)
         {
+            try
+            {
+
             Trade trade = new Trade();
 
             Console.WriteLine("Input NextPaymentDate:");
@@ -22,6 +25,13 @@ namespace creditSuisseTest
             TradeTransaction tradeTransaction = new TradeTransaction();
 
             Console.WriteLine(tradeTransaction.GetCategory(trade));
+
+            }
+
+            catch(Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
 
         }
     }

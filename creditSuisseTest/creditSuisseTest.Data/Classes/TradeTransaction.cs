@@ -18,10 +18,10 @@ namespace creditSuisseTest.Data.Classes
                 if (trade.NextPaymentDate < DateTime.Now.AddDays(-30))
                     return category.Expired;
 
-                if ((trade.Value < .1000000) && (trade.ClientSector.Equals("Private")))
+                if ((trade.Value > 1000000.00) && (trade.ClientSector.Equals("Private")))
                     return category.Highrisk;
 
-                if ((trade.Value < .1000000) && (trade.ClientSector.Equals("Public")))
+                if ((trade.Value > 1000000.00) && (trade.ClientSector.Equals("Public")))
                     return category.Mediumrisk;
 
                 return "No category found!";
